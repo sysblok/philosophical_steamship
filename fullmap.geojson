@@ -1,0 +1,1871 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff2600",
+                "marker-size": "medium",
+                "marker-symbol": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3609,
+                    59.9311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#006d8f",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.405,
+                    52.52
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00a3d8",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2630655765533447,
+                    48.800546055471735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#00a3d8",
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.3609,
+                        59.9311
+                    ],
+                    [
+                        13.405,
+                        52.52
+                    ],
+                    [
+                        2.2631,
+                        48.8005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00c7fd",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.421111345291138,
+                    50.08769870638114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#00c7fd",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.972171425819397,
+                    49.0309641874597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#23c6fb",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.52131462097168,
+                    54.07580787191716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#00c7fd",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "В. Ф. Булгаков"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.3609,
+                        59.9311
+                    ],
+                    [
+                        14.421143531799315,
+                        50.08771247392901
+                    ],
+                    [
+                        10.972174108028412,
+                        49.030965946052866
+                    ],
+                    [
+                        14.421164989471436,
+                        50.08768493882933
+                    ],
+                    [
+                        37.52131529152393,
+                        54.075809052185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#9aa60d",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "В. И. Ясинский"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.359687805175778,
+                        59.93145230714299
+                    ],
+                    [
+                        13.2,
+                        52.51841451673572
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#9aa60d",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2,
+                    52.51846674522954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#006d8f",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "Н. О. Лосский"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.36090049892664,
+                        59.93110004005164
+                    ],
+                    [
+                        14.417538642883303,
+                        50.09069993826941
+                    ],
+                    [
+                        17.11172103881836,
+                        48.152000771652034
+                    ],
+                    [
+                        -73.90159606933594,
+                        40.93011520598305
+                    ],
+                    [
+                        2.350924015045166,
+                        48.85666816723737
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004d65",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3509454727172847,
+                    48.85669640316406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004d65",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.90151023864746,
+                    40.93018005182833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004d65",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11172103881836,
+                    48.15200435055961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#d9ec37",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "М. М. Новиков"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.36090150475502,
+                        59.931100879987156
+                    ],
+                    [
+                        13.4912109375,
+                        52.42922227795511
+                    ],
+                    [
+                        14.4198046875,
+                        50.083932109388
+                    ],
+                    [
+                        17.160644531249996,
+                        48.180738507303836
+                    ],
+                    [
+                        12.095775604248047,
+                        49.01952146446601
+                    ],
+                    [
+                        -73.91807556152344,
+                        41.09086659720327
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#d9ec37",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4912109375,
+                    52.42924844519214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#d9ec37",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.160644531249996,
+                    48.180738507303836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#d9ec37",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.096633911132812,
+                    49.02030948916886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#d9ec37",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.91807556152344,
+                    41.09106066049132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#77bb40",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "С. Н. Прокопович"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.360898822546,
+                        59.93110155193556
+                    ],
+                    [
+                        13.421173095703125,
+                        52.46939684276205
+                    ],
+                    [
+                        14.41503515624998,
+                        50.09066538593667
+                    ],
+                    [
+                        7.450790405273437,
+                        46.947918556520655
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#669d34",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.42254638671875,
+                    52.47274306920925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#669d34",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.448730468749999,
+                    46.9502622421856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#d58400",
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.36088943481445,
+                        59.93108676906759
+                    ],
+                    [
+                        13.3989501953125,
+                        52.52457705042609
+                    ],
+                    [
+                        14.428130859375,
+                        50.09066538593667
+                    ],
+                    [
+                        23.323974609375,
+                        42.69051116998238
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#d58400",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3184814453125,
+                    42.70262285884388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#ebf38f",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "Б. Д. Бруцкус"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.36088943481445,
+                        59.93119428068436
+                    ],
+                    [
+                        13.42529296875,
+                        52.44261787120725
+                    ],
+                    [
+                        25.3125,
+                        54.77534585936447
+                    ],
+                    [
+                        2.4169921874999996,
+                        48.86471476180277
+                    ],
+                    [
+                        35.2166748046875,
+                        31.770207631866715
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ebf38f",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.2166748046875,
+                    31.770207631866715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ebf38f",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.412872314453125,
+                    48.86471476180277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ebf38f",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3125,
+                    54.7499909702269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ebf38f",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.426666259765623,
+                    52.44429203405363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#004d65",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.417667388916016,
+                    50.09068617157978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#00c7fd",
+                "stroke-width": 4,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        10.97259521484375,
+                        49.034266715880825
+                    ],
+                    [
+                        14.421272277832031,
+                        50.08798782405545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#77bb40",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.415092468261719,
+                    50.090631104781586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#d58400",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.427967071533201,
+                    50.090520970995364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#3a88fe",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9497,
+                    41.0138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ff0000",
+                "marker-size": "medium",
+                "marker-symbol": "triangle"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.1015625,
+                    44.9572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#74a7ff",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "С. Н. Булгаков"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        34.101,
+                        44.957003555993964
+                    ],
+                    [
+                        29.003906249999996,
+                        41.11246878918088
+                    ],
+                    [
+                        14.414062499999998,
+                        50.07819173665911
+                    ],
+                    [
+                        2.3509,
+                        48.8872
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#3a88fe",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.350902557373047,
+                    48.88718190741112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#375719",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.553,
+                    53.4289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#253d0e",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.608,
+                    49.1952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#375719",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5805,
+                    44.8404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#375719",
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.3609,
+                        59.9311
+                    ],
+                    [
+                        14.553,
+                        53.4289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#375719",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "В. В. Зворыкин"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        14.553,
+                        53.4289
+                    ],
+                    [
+                        16.608,
+                        49.1952
+                    ],
+                    [
+                        2.3198,
+                        48.8737
+                    ],
+                    [
+                        -0.5805,
+                        44.8404
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#375719",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3198318481445312,
+                    48.8737479930069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#a8c6ff",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.541694,
+                    47.3768866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#a8c6ff",
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.3609,
+                        59.9341
+                    ],
+                    [
+                        14.539,
+                        53.4259
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#a8c6ff",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "И. А. Ильин"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        14.539,
+                        53.4259
+                    ],
+                    [
+                        13.403320312499998,
+                        52.53627304145948
+                    ],
+                    [
+                        8.5417,
+                        47.3769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#a8c6ff",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.539031982421873,
+                    53.42630998319161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#a96800",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.399200439453125,
+                    52.52478593472457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#cbf1ff",
+                "marker-size": "small",
+                "marker-symbol": "",
+                "name": "Штеттин"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.548044204711914,
+                    53.43308585676713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#cbf1ff",
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        14.548044875264168,
+                        53.433087055234125
+                    ],
+                    [
+                        30.3609,
+                        59.9311
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#cbf1ff",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.402086496353148,
+                    52.537245391521736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#cbf1ff",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "Берлин"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.402086831629276,
+                        52.53724579938218
+                    ],
+                    [
+                        14.548044875264168,
+                        53.43308825370107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#cbf1ff",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.28226613998413,
+                    54.686676875620336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#cbf1ff",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "Л. П. Карсавин"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        25.28226613998413,
+                        54.686695480943015
+                    ],
+                    [
+                        13.402086161077023,
+                        52.537245391521736
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#cbf1ff",
+                "marker-size": "small",
+                "marker-symbol": "",
+                "name": "Берлин"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.402086496353148,
+                    52.537245391521736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#b18cfe",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": 1922
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.402086831629276,
+                        52.53724579938218
+                    ],
+                    [
+                        14.548044875264168,
+                        53.43308825370107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#e0eed4",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery",
+                "name": "Рим"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.484736144542694,
+                    41.89460069863078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Д. В. Кузьмин-Караваев",
+                "stroke": "#e0eed4",
+                "stroke-width": 4,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        12.484736144542694,
+                        41.894604691766524
+                    ],
+                    [
+                        13.365554809570312,
+                        52.5417022642097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#e0eed4",
+                "marker-size": "small",
+                "marker-symbol": "",
+                "name": "Лёвен"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7014617919921875,
+                    50.8793188124966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#e0eed4",
+                "stroke-width": 4,
+                "stroke-opacity": 1,
+                "name": 1931
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.701504707336426,
+                        50.87937296784305
+                    ],
+                    [
+                        13.365554809570312,
+                        52.5417022642097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#e0eed4",
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.322265625000004,
+                        59.95501026206206
+                    ],
+                    [
+                        13.365554809570312,
+                        52.5417022642097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#e0eed4",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.365554809570312,
+                    52.5417022642097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#fa0000",
+                "marker-size": "medium",
+                "marker-symbol": "triangle",
+                "name": "Петроград"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.314090251922607,
+                    59.93871922799744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#cbf1ff",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": 1922
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.402086831629276,
+                        52.53724579938218
+                    ],
+                    [
+                        14.548044875264168,
+                        53.43308825370107
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#a8c6ff",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.403320312499998,
+                    52.53627304145948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#fff2d5",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "А. А. Кизеветтер"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.358314514160156,
+                        59.93196835403895
+                    ],
+                    [
+                        14.538002014160156,
+                        53.440729790836286
+                    ],
+                    [
+                        13.312683105468748,
+                        52.50828101452225
+                    ],
+                    [
+                        14.419727325439451,
+                        50.08148913919598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ffedd5",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.312683105468748,
+                    52.508698937097854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ffedd5",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4195556640625,
+                    50.08137898440154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ffedd5",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.538345336914062,
+                    53.440627539922914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#96d35f",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "П. А. Сорокин"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.360717773437496,
+                        59.93300042374631
+                    ],
+                    [
+                        13.333625793457031,
+                        52.55443742071334
+                    ],
+                    [
+                        14.436035156250002,
+                        50.08732698109425
+                    ],
+                    [
+                        -71.10626220703124,
+                        42.37452473019751
+                    ],
+                    [
+                        -71.13922119140625,
+                        42.452341305349485
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#96d35f",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.13922119140625,
+                    42.45284793716157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#96d35f",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10557556152344,
+                    42.37427109825652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#96d35f",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.436035156250002,
+                    50.08732698109425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#96d35f",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.333969116210938,
+                    52.55464616298482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#ffb43e",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "И. Ю. Байкал"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.360717773437496,
+                        59.93437646673723
+                    ],
+                    [
+                        13.380661010742188,
+                        52.483198387093346
+                    ],
+                    [
+                        37.4853515625,
+                        55.7765730186677
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ffaa00",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.4908447265625,
+                    55.77348342260549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#ffb43e",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.381004333496094,
+                    52.48340746811035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#7a4900",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "М. А. Осорин"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.360717773437496,
+                        59.93575245264131
+                    ],
+                    [
+                        13.3978271484375,
+                        52.55965567958739
+                    ],
+                    [
+                        2.3572540283203125,
+                        48.84573966784039
+                    ],
+                    [
+                        1.646575927734375,
+                        47.249406957888446
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7a4900",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.646575927734375,
+                    47.25406775981567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7a4900",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3572540283203125,
+                    48.846191539376825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#7a4900",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.397140502929688,
+                    52.55965567958739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#edc383",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "А. В. Пешехонов"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.3497314453125,
+                        59.93575245264131
+                    ],
+                    [
+                        13.418426513671875,
+                        52.51246006145307
+                    ],
+                    [
+                        14.427887939453125,
+                        50.08415525230204
+                    ],
+                    [
+                        24.114990234374996,
+                        56.9569571133683
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#eac686",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.10400390625,
+                    56.96893619436121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#edc383",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.418426513671875,
+                    52.51246006145307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#001d57",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "С. Л. Франк"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        30.278320312499996,
+                        59.95501026206206
+                    ],
+                    [
+                        13.356628417968748,
+                        52.527501340211955
+                    ],
+                    [
+                        2.3119354248046875,
+                        48.8412207282153
+                    ],
+                    [
+                        -0.1318359375,
+                        51.508742458803326
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#001d57",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery",
+                "name": "С. Л. Франк"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1318359375,
+                    51.50190410761811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#001d57",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3126220703125,
+                    48.8412207282153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#001d57",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356628417968748,
+                    52.52729246882668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8d8600",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6611328125,
+                    55.7642131648377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8d8600",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.33734130859375,
+                    48.83941303819501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#8d8600",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.342208862304688,
+                    52.50828101452225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#e4ef65",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.419813156127928,
+                    50.08391248063559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#74a7ff",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.414234161376951,
+                    50.07823946635356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#e3c197",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.427967071533201,
+                    50.08402262960837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#cbf1ff",
+                "stroke-width": 2,
+                "stroke-opacity": 1,
+                "name": "Л. П. Карсавин"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        25.279541015625,
+                        54.689709430616546
+                    ],
+                    [
+                        63.03955078125,
+                        66.50450199051299
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#cbf1ff",
+                "marker-size": "medium",
+                "marker-symbol": "cemetery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    62.9296875,
+                    66.47820814385636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#9aa60d",
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        13.359375,
+                        52.562995039558004
+                    ],
+                    [
+                        2.373046875,
+                        48.922499263758255
+                    ],
+                    [
+                        6.119384765624999,
+                        45.90912212390727
+                    ],
+                    [
+                        45.87890625,
+                        51.72702815704774
+                    ],
+                    [
+                        65.4345703125,
+                        67.52537347875264
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#6f7607",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.478515625,
+                    67.57571741708057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "stroke": "#9aa60d",
+                "stroke-width": 2,
+                "stroke-opacity": 1
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        65.56640625,
+                        67.64267630796034
+                    ],
+                    [
+                        37.6611328125,
+                        55.765758360887986
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#9aa60d",
+                "marker-size": "small",
+                "marker-symbol": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.9228515625,
+                    51.645294049305406
+                ]
+            }
+        }
+    ]
+}
