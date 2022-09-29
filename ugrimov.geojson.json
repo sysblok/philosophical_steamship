@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.146484374999996,
+            59.93300042374631
+          ],
+          [
+            28.4326171875,
+            60.174306261926034
+          ],
+          [
+            21.357421875,
+            59.108308258604964
+          ],
+          [
+            17.578125,
+            55.825973254619015
+          ],
+          [
+            14.3701171875,
+            54.03358633521085
+          ],
+          [
+            14.677734375000002,
+            53.48804553605622
+          ],
+          [
+            13.447265624999998,
+            52.429222277955134
+          ],
+          [
+            2.2412109375,
+            48.922499263758255
+          ],
+          [
+            2.48291015625,
+            48.73445537176822
+          ],
+          [
+            13.3154296875,
+            52.22779941887071
+          ],
+          [
+            48.427734375,
+            54.36775852406841
+          ],
+          [
+            36.23291015625,
+            54.55613719840548
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.25488281249999,
+          54.54657953840501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "ferry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.322265625000004,
+          59.95501026206206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403320312499998,
+          52.482780222078226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4169921874999996,
+          48.777912755501845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6337890625,
+          53.51418452077113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.394775390625,
+          54.32933804825253
+        ]
+      }
+    }
+  ]
+}
